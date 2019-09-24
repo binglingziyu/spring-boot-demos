@@ -1,0 +1,6 @@
+
+archivesBaseName = 'spring-security-02'
+
+dependencies {
+    implementation('org.springframework.boot:spring-boot-starter-security')
+}
